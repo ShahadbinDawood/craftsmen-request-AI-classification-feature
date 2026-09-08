@@ -67,3 +67,6 @@ npm run dev
 - فلترة وترتيب بصفحة "الطلبات"
 - دعم رفع صور مع الطلب وتحليلها عبر Claude Vision
 - نسخة موبايل حقيقية (React Native) كبونص
+
+## مقطع توضيحي 
+https://youtu.be/VmLZho1WGMc
